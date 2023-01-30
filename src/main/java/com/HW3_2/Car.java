@@ -3,6 +3,7 @@ package com.HW3_2;
 public class Car {
     private void startElectricity() {
         System.out.println("start electricity");
+
     }
 
     private void startCommand() {
