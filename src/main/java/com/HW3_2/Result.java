@@ -5,6 +5,5 @@ public class Result {
         Car ferrari = new Car();
         ferrari.start();
 
-
     }
 }

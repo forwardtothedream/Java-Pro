@@ -13,7 +13,6 @@ public class Car {
     private void startFuelSystem() {
         System.out.println("start fuel system");
     }
-
     public void start() {
         startElectricity();
         startCommand();

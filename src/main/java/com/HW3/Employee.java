@@ -7,7 +7,6 @@ public class Employee {
     private String phoneNumber;
     private int age;
 
-
     public Employee(String fullName, String position, String email, String phoneNumber, int age) {
         this.fullName = fullName;
         this.position = position;
