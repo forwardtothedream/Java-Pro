@@ -11,7 +11,6 @@ public class WritingMethods {
         for (int i = 0; i < result.length; i++) {
             if (result[i] == symbol) {
                 volume++;
-
             }
         }
         System.out.println("Cимвол " + symbol + " зустрічається " + volume + " разів");

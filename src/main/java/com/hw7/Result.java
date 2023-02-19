@@ -13,6 +13,5 @@ public class Result {
         String str2 = "alla";
         exm.isPalindrome(str2);
         exm.guessWords();
-
     }
 }
