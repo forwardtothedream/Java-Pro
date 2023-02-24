@@ -34,6 +34,7 @@ public class Main {
         }
         System.out.println(exmp.findUnique(masExmToo));
         System.out.println(exmp.calcOccurance(masExm));
+        System.out.println(exmp.findOccurance(masExm));
         /*
 
 
